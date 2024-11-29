@@ -1,0 +1,52 @@
+{
+  "appHeader": {
+    "brand": "Bùi Đức Chiến",
+    "home": "Trang chủ",
+    "project": "Dự án",
+    "contact": "Liên hệ",
+    "about": "Về tác giả"
+  },
+  "heroSection": {
+    "exp": "Kinh nghiệm",
+    "cv": "Tải Resume"
+  },
+  "introSection": {
+    "about": "Giới thiệu",
+    "and": "và",
+    "heading1": "Tôi đã có được kiến ​​thức nền tảng về phát triển web frontend.",
+    "heading2": "Tôi nắm vững các ngôn ngữ huyền thoại như là",
+    "heading3": "Lĩnh vực quan tâm của tôi là",
+    "heading4": "xây dựng các công nghệ web mới và các sản phẩm liên quan",
+    "heading5": "Bất cứ khi nào có thể, tôi cũng áp dụng niềm đam mê phát triển sản phẩm của mình với"
+  },
+  "experience": {
+    "title": "Kinh nghiệm làm việc"
+  },
+  "skill": {
+    "title": "Kỹ năng"
+  },
+  "about": {
+    "title": "Know Who I'M",
+    "line1": "Xin chào mọi người, tôi là Chiến đến từ Tân Bình, Việt Nam.",
+    "line2": "Tôi là một nhà phát triển front-end. Tôi đã học được những kiến ​​thức liên quan đến phát triển Front-end và mong muốn thăng tiến xa hơn.",
+    "line3": "Tôi đã hoàn thành bằng Cử nhân Công nghệ thông tin tại Đại học Công nghiệp Hà Nội (HAUI).",
+    "line4": "Ngoài việc viết mã, một số hoạt động khác mà tôi thích làm!",
+    "ul1": "Đọc tin tức",
+    "ul2": "Chơi trò chơi",
+    "ul3": "đi du lịch",
+    "maxim": "Chỉ có hai loại ngôn ngữ: ngôn ngữ bị mọi người phàn nàn và ngôn ngữ không ai sử dụng.",
+    "auth": "Bjarne Stroustrup, Cha đẻ ngôn ngữ C++"
+  },
+  "education":{
+    "title" : "Học vấn",
+    "major" : "Công nghệ thông tin",
+    "university" : "Đại học Công Nghiệp Hà Nội"
+  },
+  "contact": {
+    "title": "LIÊN HỆ TÔI",
+    "name": "Tên của bạn",
+    "email" : "Email của bạn",
+    "message": "Lời nhắn của bạn",
+    "button": "Gửi lời nhắn"
+  }
+}

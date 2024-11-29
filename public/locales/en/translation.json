@@ -1,0 +1,53 @@
+{
+  "appHeader": {
+    "brand": "Bui Duc Chien",
+    "home": "Home",
+    "project": "Project",
+    "contact": "Contact",
+    "about": "About"
+  },
+  "heroSection": {
+    "exp": "My Skill",
+    "cv": "Get Resume"
+  },
+  "introSection": {
+    "about": "About me",
+    "and": "and",
+    "heading1": "I have gained foundational knowledge in frontend web development.",
+    "heading2": "I am fluent in classics like",
+    "heading3": "My field of Interest's are building new",
+    "heading4": "Web Technologies and Products",
+    "heading5": "Whenever possible, I also apply my passion for developing products with"
+  },
+  "experience": {
+    "title": "Experiences"
+  },
+  "skill": {
+    "title": "Skills"
+  },
+  "about": {
+    "title": "Know Who I'M",
+    "line1": "Hi Everyone, I am Chien from Tan Binh, VietNam.",
+    "line2": "I am a front-end developer. I have learned knowledge related to Front-end development and aspire to advance further.",
+    "line3": "I have completed Bachelor's degree in Information Technology at Hanoi University of Industry (HAUI)",
+    "line4": "Apart from coding, some other activities that I love to do!",
+    "ul1": "Read the news",
+    "ul2": "Playing Games",
+    "ul3": "Travelling",
+    "maxim": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+    "auth": "Bjarne Stroustrup, The C++ Programming Language"
+  },
+  "education":{
+    "title" : "EDUCATION",
+    "major" : "Information Technology",
+    "university" : "Hanoi University of Industry"
+  }
+  ,
+  "contact": {
+   "title":"CONTACT ME",
+   "name" : "Your name",
+   "email" : "Your email",
+   "message" : "Your massage",
+   "button" : "Send message"
+  }
+}
