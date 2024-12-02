@@ -64,7 +64,7 @@ export const PROJECTS = [
         en:"Build a music website where users can perform the following functions: log in using GitHub or Google accounts (NextAuth), listen to music, like songs, comment, search for music and add songs to user-created playlists",
     },
         githubLink: "https://github.com/ducchien24/MusicAppSC",
-        demoLink: "https://github.com/ducchien24/MusicAppSC"
+        demoLink: "https://drive.google.com/file/d/1zuQP-Ff88Sdf0at6KlWVBJrN-zqLY5sg/view?usp=sharing"
     },
     {
         id: 2,
@@ -79,7 +79,7 @@ export const PROJECTS = [
          en:"Build a book management website with the following features: Log in, CRUD for books, CRUD for users, file upload, and user avatar upload.",
         },
          githubLink: "https://github.com/ducchien24/Book-App",
-        demoLink: "https://vercel.com/nemo2/book-app"
+        demoLink: "https://book-app-psi-ten.vercel.app/"
     },
        
 ]

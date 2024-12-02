@@ -23,6 +23,7 @@ const HeroLeft = (props: IProps) => {
     const handleDownloadCV = () => {
         openInNewTab("https://drive.google.com/file/d/1tBtCIEom2kr98gVPic0ooGmliS2WbtHZ/view?usp=sharing")
     }
+    
     return (
         <div className='hero-left'>
            {currentLanguage =="en" ?  <>
